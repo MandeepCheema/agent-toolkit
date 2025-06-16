@@ -1,0 +1,7 @@
+include LICENSE
+include README.md
+include CONTRIBUTING.md
+include requirements.txt
+include pyproject.toml
+recursive-include atlan_mcp/glossary/tests *
+recursive-include atlan_mcp/glossary/examples * 
