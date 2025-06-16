@@ -9,7 +9,7 @@ Thank you for your interest in contributing to the Atlan MCP project! This docum
 
 2. **Clone Your Fork**:  
    ```bash
-   git clone https://github.com/your-username/atlan-mcp.git
+   git clone https://github.com/MandeepCheema/atlan-mcp.git
    cd atlan-mcp
    ```
 
@@ -55,7 +55,8 @@ Thank you for your interest in contributing to the Atlan MCP project! This docum
 
 2. **Push to Your Fork**:  
    ```bash
-   git push origin feature/your-feature-name
+   export GITHUB_TOKEN=yourtoken
+   git push -u origin feature/glossary-module
    ```
 
 3. **Open a Pull Request**:  
